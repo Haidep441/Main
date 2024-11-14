@@ -535,7 +535,7 @@ if _G.Switch_Hub_Series_R then
 						minutes = math.floor(scripttime/60%60)
 						hours = math.floor(scripttime/3600)
 						local tempo = string.format("%.0f Hours, %.0f Minutes, %.0f Seconds", hours ,minutes, seconds)
-						game:GetService("CoreGui")["Switch Hub"].Text2.Fragments.Text = tempo
+						game:GetService("CoreGui")["HaiDz Hub"].Text2.Fragments.Text = tempo
 					end
 				end)
 			end
