@@ -810,7 +810,7 @@ if _G.Switch_Hub_Series_R then
 	end
 	
 	local PepsisWorld = library:CreateWindow({
-		Name = "HaiDepZai Hub [ Kaitun ]",
+		Name = "Switch Hub [ Kaitun ]",
 		Themeable = {	
 		}
 	})
