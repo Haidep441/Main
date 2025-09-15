@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.gg/
 
 
 shared.LoaderTitle = "HUB";
@@ -313,7 +313,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "ANDEPZAI HUB",
+    Title = "Haidepzai HUB",
     SubTitle = "Blox Fruit",
     TabWidth = 160,
     Theme = "Dark",
@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "TBoy Roblox",
+    Title = "HaiDepZai",
     Content = "Táº£i Xong",
     Duration = 10
 });
