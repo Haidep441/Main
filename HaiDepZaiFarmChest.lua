@@ -12,7 +12,7 @@ getgenv().JoinedServers = getgenv().JoinedServers or {}
 -- Notify Start
 pcall(function()
     game.StarterGui:SetCore("SendNotification", {
-        Title = "Chest Farm | By Chiriku Roblox",
+        Title = "Chest Farm |by haidepzai",
         Text = "Đang quét chest... Đợi 10 giây để bắt đầu.",
         Duration = 8
     })
